@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these programs or data, please cite the paper."
+title: "Stable Self-Similar Expansion of Four and Five Point Vortices and Confinement of Vortex Patches"
+type: software
+authors:
+  - given-names: "Chase"
+    family-names: "Hendrick"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0002-9754-6087"
+license: Apache-2.0
+repository-code: "https://github.com/ChaseHendrick/stable-expansion"
+preferred-citation:
+  type: article
+  title: "Stable Self-Similar Expansion of Four and Five Point Vortices and Confinement of Vortex Patches"
+  authors:
+    - given-names: "Chase"
+      family-names: "Hendrick"
+      affiliation: "Independent Researcher"
+      orcid: "https://orcid.org/0009-0002-9754-6087"
+  year: 2026
