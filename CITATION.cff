@@ -9,6 +9,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-9754-6087"
 license: Apache-2.0
 repository-code: "https://github.com/ChaseHendrick/stable-expansion"
+doi: "10.5281/zenodo.22971173"
 preferred-citation:
   type: article
   title: "Stable Self-Similar Expansion of Four and Five Point Vortices and Confinement of Vortex Patches"
